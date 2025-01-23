@@ -10,7 +10,7 @@ Prerequisites:
 
 To build:
 
-1. clone this code or download from github
+1. clone this code or download from github : git clone https://github.com/kneupane1/Clas12_two-pi_ana.git
 2. cd Clas12_two-pi_ana
 3. mkdir build
 4. cd build
